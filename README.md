@@ -1,0 +1,8 @@
+## Hey 👋, This is Leah DeYoung
+[![Gmail Badge](https://img.shields.io/badge/-deyounlm@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deyounlm@gmail.com)](mailto:deyounlm@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/leahdeyoung-45888684/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/leahdeyoung-45888684//)](https://www.linkedin.com/in/https://www.linkedin.com/in/leahdeyoung-45888684//) [![Github Badge](https://img.shields.io/badge/-LDeYoung17-grey?style=flat&logo=github&logoColor=white&link=https://github.com/LDeYoung17/)](https://www.github.com/LDeYoung17/) <p align='left'>I am a Data Scientist who previously worked as a Software Engineer and Quality Analyst. I am familiar with Python (Pandas, NumPy, matplotlib, plotly), SQL (Oracle SQL Developer, PostgreSQL, Microsoft SQL Server), Atlassian products (JIRA, Confluence), and Agile and Kanban methodologies.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1d3sMQ8wSdv7UxIGKpzYoZVquH-fKQZiD/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=LDeYoung17 alt=LDeYoung17 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=LDeYoung17&show_icons=true&include_all_commits=true)](https://github.com/LDeYoung17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDeYoung17&layout=compact)](https://github.com/LDeYoung17/github-readme-stats)
